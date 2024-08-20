@@ -2,11 +2,12 @@
 
 Nombre: **Daniel Santiago Brenes Salas**
 
-Fotografía: ![](img/yo.jpg)
+![Fotografía: ](img/yo.jpg)
 
 ## Titulos: 
 
 Bachillerto en Educación Media en 2017
+
 Bachillerato en Geografá en 2024
 
 ## Datos de contacto:
