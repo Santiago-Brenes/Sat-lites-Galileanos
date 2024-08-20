@@ -15,3 +15,7 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
 Esta es texto adicional al de los Satélites Galileanos
+
+Esta es un imagen local.
+
+![Reb Bull RB8](img/2012_rb8.jpg)
