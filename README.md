@@ -1,7 +1,8 @@
 ### Curriculum Vitae
 
 Nombre: **Daniel Santiago Brenes Salas**
-Fotografía: ![Foto tamaño pasaporte](img/yo.jpg)
+
+Fotografía: ![](img/yo.jpg)
 
 ## Titulos: 
 
