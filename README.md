@@ -13,7 +13,9 @@ Bachillerato en Geografá en 2024
 ## Datos de contacto:
 
 Correo institucional UCR:  daniel.brenessalas@ucr.ac.cr
+
 Correo Gmail: daniel.brenes117@gmail.com
+
 Numero de teléfono: 8430-6781
 
 **_Áreas de Interés:_**
