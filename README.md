@@ -1,21 +1,38 @@
-### Los satélites galileanos
+### Curriculum Vitae
 
-Se llaman **satélites galileanos** los cuatro satélites
-de Júpiter descubiertos en 1610 por 
-[Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei): 
-*Ío*, *Europa*, *Ganimedes* y *Calisto*. 
-Son los más grandes de los satélites de Júpiter, 
-siendo visibles incluso con telescopios de baja potencia.
+Nombre: **Daniel Santiago Brenes Salas**
+Fotografía: ![Foto tamaño pasaporte](img/yo.jpg)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jupiter_and_the_Galilean_Satellites.jpg/168px-Jupiter_and_the_Galilean_Satellites.jpg)
+## Titulos: 
 
-**Figura 1**. Los cuatro satélites galileanos, 
-en una composición que compara sus tamaños con el tamaño de Júpiter. 
-En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
+Bachillerto en Educación Media en 2017
+Bachillerato en Geografá en 2024
 
+## Datos de contacto:
 
-Esta es texto adicional al de los Satélites Galileanos
+Correo institucional UCR:  daniel.brenessalas@ucr.ac.cr
+Correo Gmail: daniel.brenes117@gmail.com
+Numero de teléfono: 8430-6781
 
-Esta es un imagen en linea.
+**_Áreas de Interés:_**
 
-![Reb Bull RB8](https://c4.wallpaperflare.com/wallpaper/481/285/319/2012-red-bull-rb8-wallpaper-preview.jpg)
+- Cartografía Temática
+- Geomorfología Litoral
+- Sistemas de Informacón Geográfica
+- Esenarios de Cambio Cliamtico
+
+#### Cursos aprovados:
+
+- Semestre 1
+    - Curso Untegrado de Humanidades
+  
+#### Cursos en progreso:
+
+1. Programacioón en Sig 
+2. Teledeteccion y Modelación Ambiental
+3. Gestión de Espacios Marinos y Oceánicos
+4. Investigación Avanzada II
+
+##### Redes Sociales:
+
+[LinkIn](https://www.linkedin.com/in/santiago-brenes-6197892b3/)
