@@ -18,4 +18,4 @@ Esta es texto adicional al de los Satélites Galileanos
 
 Esta es un imagen local.
 
-![Reb Bull RB8](img/2012_rb8.jpg)
+![Reb Bull RB8](https://c4.wallpaperflare.com/wallpaper/481/285/319/2012-red-bull-rb8-wallpaper-preview.jpg)
